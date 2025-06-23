@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import StudentForm from '../components/studentForm';
+import StudentForm from '../components/StudentForm';
 
 function StudentFormPage() {
   const { id } = useParams();

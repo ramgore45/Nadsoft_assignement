@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import StudentList from '../components/studentList';
+import StudentList from '../components/StudentList';
 
 function StudentListPage() {
   return (
